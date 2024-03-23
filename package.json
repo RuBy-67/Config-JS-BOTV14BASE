@@ -1,0 +1,19 @@
+{
+  "name": "pierre",
+  "version": "1.0.0",
+  "description": "Trading sondage bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "/test"
+  },
+  "keywords": [
+    "sondage"
+  ],
+  "author": "RuBy",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security"
+  }
+}
