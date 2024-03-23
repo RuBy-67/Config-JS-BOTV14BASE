@@ -12,7 +12,7 @@ module.exports = {
     const embed = new EmbedBuilder()
       .setTitle("Social Link")
       .setDescription(
-        `➼ ** | [GitHub_RuBy67](https://github.com/RuBy-67)**\n➼ ** | [@ruben_bey67](https://twitter.com/ruben_bey67)**\n➼ ** |** <@375590278880428034>\n\n *Write me if you need any update in bot*`
+        `➼ ** | [GitHub_RuBy67](https://github.com/RuBy-67)**\n➼ ** | [@XXX](https://twitter.com/)**\n➼ ** |** <@375590278880428034>\n\n *Write me if you need any update in bot*`
       )
       .setColor("#3135D8");
       
