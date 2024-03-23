@@ -2,6 +2,6 @@
 	"botToken": "tokenId",
 	"ownerId": "375590278880428034",
 	"prefix": "$",
-	"error_logs": "ENTER_THE_ERROR_LOGS_CHANNEL_ID_HERE",
+	"error_logs": "ENTER_THE_ERROR_LOGS_CHANNEL_HERE",
 	"activityInterval": 5
 }
