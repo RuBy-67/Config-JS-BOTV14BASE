@@ -1,7 +1,7 @@
-<h3 align="center">Sondage - BOT</h3>
+<h3 align="center">BOT</h3>
 
 <p align="center">
-	blabla1
+	  A simple discord bot template for discord.js v14.14 or higher
 </p>
 
 ## Requirements
@@ -20,14 +20,12 @@
 ```json
 {
 	"botToken": "ENTER_YOUR_BOT_TOKEN_HERE",
-	"spreadsheetId": "ID_OF_THE_GOOGLE_SHEET",
-	"ownerId": "ENTER_YOIUR_ID_HERE",
+	"ownerId": "ENTER_YOUR_ID_HERE",
 	"prefix": "ANY_PREFIX_OF_YOUR_CHOICE",
 	"error_logs": "ENTER_THE_ERROR_LOGS_CHANNEL_ID_HERE"
 }
 ```
 - `botToken` is the token of your bot
-- `spreadsheetId` is the ID of the Google Sheet you want to use
 - `ownerId` is the ID of the owner of the bot
 
 ## Star the Repo if you liked it!
